@@ -1,12 +1,8 @@
-# Docker Flask Celery Redis
+# Flask Celery Redis - Application
 
 A basic [Docker Compose](https://docs.docker.com/compose/) template for orchestrating a [Flask](http://flask.pocoo.org/) application & a [Celery](http://www.celeryproject.org/) queue with [Redis](https://redis.io/)
 
-### Installation
-
-```bash
-git clone https://github.com/mattkohl/docker-flask-celery-redis
-```
+Convert this to a kubernetes pod config to be deployed on GKE.
 
 ### Build & Launch
 
